@@ -6,8 +6,8 @@
 
 
 ### Languages and Tools
-Python
-C
-HTML and CSS
-Bootsrap
-PyCharm
+* Python
+* C
+* HTML and CSS
+* Bootsrap
+* PyCharm
