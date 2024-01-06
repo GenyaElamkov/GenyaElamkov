@@ -11,3 +11,5 @@
 * HTML and CSS
 * Bootsrap
 * PyCharm
+
+[<img alighn="left" alt="CodeWars", with="300px" src="https://www.codewars.com/users/GenyaElamkov/badges/large" />][codewars]
