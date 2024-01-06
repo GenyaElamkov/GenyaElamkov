@@ -11,6 +11,7 @@
 * HTML and CSS
 * Bootsrap
 * PyCharm
+* Vs Code
 
 ### Skills
 [![codewars](https://www.codewars.com/users/GenyaElamkov/badges/large)](https://www.codewars.com/users/GenyaElamkov)
