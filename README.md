@@ -12,4 +12,5 @@
 * Bootsrap
 * PyCharm
 
-[<img alighn="left" alt="CodeWars", with="300px" src="https://www.codewars.com/users/GenyaElamkov/badges/large" />][codewars]
+### Skiils
+[<img align="left" alt="CodeWars", with="300px" src="https://www.codewars.com/users/GenyaElamkov/badges/large" />][codewars]
