@@ -12,5 +12,5 @@
 * Bootsrap
 * PyCharm
 
-### Skiils
+### Skills
 [![codewars](https://www.codewars.com/users/GenyaElamkov/badges/large)](https://www.codewars.com/users/GenyaElamkov)
