@@ -13,4 +13,4 @@
 * PyCharm
 
 ### Skiils
-[<img align="left" alt="CodeWars", with="300px" src="https://www.codewars.com/users/GenyaElamkov/badges/large" />][codewars]
+[<img align="left" alt="CodeWars", width="300px" src="https://www.codewars.com/users/GenyaElamkov/badges/large" />][codewars]
