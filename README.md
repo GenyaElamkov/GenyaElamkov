@@ -13,5 +13,4 @@
 * PyCharm
 
 ### Skiils
-[![codewars](https://www.codewars.com/users/GenyaElamkov/badges/large)](codewars)  
-[codewars]: https://www.codewars.com/users/GenyaElamkov
+[![codewars](https://www.codewars.com/users/GenyaElamkov/badges/large)](https://www.codewars.com/users/GenyaElamkov)
