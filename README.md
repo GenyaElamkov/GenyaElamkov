@@ -4,7 +4,7 @@
 * 💻 I love programming
 * 📚 I am learning new languages
 
-
+---
 ### Languages and Tools
 * Python
 * C
