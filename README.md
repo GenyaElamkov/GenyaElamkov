@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Karidon<h1>
+<h1 align="center">Hi there 👋, I'm Karidon</h1>
 
 ### I'm a BackEnd Developer
 * 💻 I love programming
