@@ -34,6 +34,8 @@
 | [stepik.org/Веб разработка для начинающих: HTML и CSS.](https://stepik.org/cert/2158567)| 
 | [stepik.org/Цифровая гигиена.](https://stepik.org/cert/2091636)| 
 | [stepik.org/Безопасность в интернете.](https://stepik.org/cert/1555610)| 
+| [www.specialist.ru/Программирование на языке C (Си).](https://www.specialist.ru/graduate/groupcert/997946)| 
+| [www.specialist.ru/Основы программирования и баз данных.](https://www.specialist.ru/graduate/groupcert/990417)| 
 
 ---
 
