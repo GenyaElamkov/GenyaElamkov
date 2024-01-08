@@ -27,14 +27,13 @@
 
 | Курсы                                                           |
 | ----------------------------------------------------------------| 
-| [stepik.org/Поколение Python: курс для начинающих.](https://stepik.org/cert/1531052)| 
+| [stepik.org/Поколение Python: курс для профессионалов.](https://stepik.org/cert/2285168)| 
 | [stepik.org/Поколение Python: курс для продвинутых.](https://stepik.org/cert/1886670)|
-| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
-| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
-| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
-| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
+| [stepik.org/Поколение Python: курс для начинающих.](https://stepik.org/cert/1531052)| 
+| [stepik.org/Git и GitHub.](https://stepik.org/cert/2182888)| 
+| [stepik.org/Веб разработка для начинающих: HTML и CSS.](https://stepik.org/cert/2158567)| 
+| [stepik.org/Цифровая гигиена.](https://stepik.org/cert/2091636)| 
+| [stepik.org/Безопасность в интернете.](https://stepik.org/cert/1555610)| 
 
 ---
 
