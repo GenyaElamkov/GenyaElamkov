@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Karidon</h1>
 
-### I'm a BackEnd Developer
+### About Me:
 * 💻 I love programming
 * 📚 I am learning new languages
 
