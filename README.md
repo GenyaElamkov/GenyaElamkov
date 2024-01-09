@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Karidon</h1>
 
-### About Me:
+### :man_technologist: About Me:
 * 💻 I love programming
 * 📚 I am learning new languages
 * :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-elamkovevgeny-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/elamkovevgeny) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:genyaelamkov@gmail.com)
@@ -19,7 +19,7 @@
 
 ---
 
-### Languages
+### 💻 Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title='python' width='40' height='40'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title='C' width='40' height='40'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title='HTML' width='40' height='40'/>&nbsp;
@@ -29,7 +29,7 @@
 
 ---
 
-### Tools
+### 🛠 Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title='pycharm' width='40' height='40'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title='pycharm' width='40' height='40'/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" title="Obsidian" alt="Notion" width="40" height="40"/>&nbsp;
@@ -52,7 +52,7 @@
 
 ---
 
-### Codewars
+### 💻 Codewars
 [![codewars](https://www.codewars.com/users/GenyaElamkov/badges/large)](https://www.codewars.com/users/GenyaElamkov)
 
 ---
