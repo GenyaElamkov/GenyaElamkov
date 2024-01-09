@@ -3,7 +3,7 @@
 ### About Me:
 * 💻 I love programming
 * 📚 I am learning new languages
-* - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/elamkovevgeny) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:genyaelamkov@gmail.com)
+* :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-elamkovevgeny-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/elamkovevgeny) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:genyaelamkov@gmail.com)
 ---
 
 ### 🤝 Социальные сети:
