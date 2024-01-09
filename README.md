@@ -6,6 +6,19 @@
 
 ---
 
+### 🤝 Социальные сети:
+
+  <div id="badges">
+    <a href="https://t.me/elamkovevgeny" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+    <a href="https://vk.com/elamkovevgeny" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+  </div>
+
+---
+
 ### Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title='python' width='40' height='40'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title='C' width='40' height='40'/>&nbsp;
