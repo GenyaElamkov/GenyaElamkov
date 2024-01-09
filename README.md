@@ -37,6 +37,11 @@
 
 ---
 
+### 💻 Codewars
+[![codewars](https://www.codewars.com/users/GenyaElamkov/badges/large)](https://www.codewars.com/users/GenyaElamkov)
+
+---
+
 ### 💻 Пройденные курсы:
 
 | Курсы                                                           |
@@ -50,11 +55,6 @@
 | [stepik.org/Безопасность в интернете.](https://stepik.org/cert/1555610)| 
 | [www.specialist.ru/Программирование на языке C (Си).](https://www.specialist.ru/graduate/groupcert/997946)| 
 | [www.specialist.ru/Основы программирования и баз данных.](https://www.specialist.ru/graduate/groupcert/990417)| 
-
----
-
-### 💻 Codewars
-[![codewars](https://www.codewars.com/users/GenyaElamkov/badges/large)](https://www.codewars.com/users/GenyaElamkov)
 
 ---
 
