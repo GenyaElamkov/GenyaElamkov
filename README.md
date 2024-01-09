@@ -58,7 +58,7 @@
 
 ---
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
