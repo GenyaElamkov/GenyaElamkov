@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Karidon</h1>
+<h1 align="center">Hi there 👋, I'm Evgeny Elamkov</h1>
 
 ### :man_technologist: About Me:
 * 💻 I love programming
