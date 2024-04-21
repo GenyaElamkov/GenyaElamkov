@@ -46,6 +46,7 @@
 
 | Courses                                                           |
 | ----------------------------------------------------------------| 
+| [stepik.org/Поколение Python: ООП.](https://stepik.org/cert/2425182)| 
 | [stepik.org/Поколение Python: курс для профессионалов.](https://stepik.org/cert/2285168)| 
 | [stepik.org/Поколение Python: курс для продвинутых.](https://stepik.org/cert/1886670)|
 | [stepik.org/Поколение Python: курс для начинающих.](https://stepik.org/cert/1531052)| 
