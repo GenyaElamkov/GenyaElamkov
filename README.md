@@ -46,7 +46,7 @@
 
 | Courses                                                           |
 | ----------------------------------------------------------------|
-| [stepik.org/Django 5 для начинающих](https://stepik.org/cert/2547003)|
+| [stepik.org/Django 5 для начинающих.](https://stepik.org/cert/2547003)|
 | [stepik.org/Поколение Python: ООП.](https://stepik.org/cert/2425182)| 
 | [stepik.org/Поколение Python: курс для профессионалов.](https://stepik.org/cert/2285168)| 
 | [stepik.org/Поколение Python: курс для продвинутых.](https://stepik.org/cert/1886670)|
