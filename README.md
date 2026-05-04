@@ -50,6 +50,7 @@
 
 | Courses                                                           |
 | ----------------------------------------------------------------|
+| [stepik.org/Продвинутый FastAPI для продолжающих.](https://stepik.org/cert/3237315)|
 | [stepik.org/Твой JavaScript.](https://stepik.org/cert/3088141)|
 | [stepik.org/Docker для начинающих + практический опыт.](https://stepik.org/cert/2655916)|
 | [stepik.org/Продвинутый Django 5 для продолжающих.](https://stepik.org/cert/2979883)|
