@@ -1,84 +1,88 @@
-<h1 align="center">Hi there 👋, I'm Evgeny Elamkov</h1>
+<h1 align="center">
+Hi 👋 I'm Evgeny Elamkov
+</h1>
 
-### :man_technologist: About Me:
-* 💻 I love programming
-* 📚 I am learning new languages
-* :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-elamkovevgeny-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/elamkovevgeny) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:genyaelamkov@gmail.com)
----
+<h3 align="center">
+Backend Python Developer • FastAPI • Docker • PostgreSQL
+</h3>
 
-### 🤝 Social network:
-
-  <div id="badges">
-    <a href="https://t.me/elamkovevgeny" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="https://vk.com/elamkovevgeny" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-  </div>
+<p align="center">
+Building scalable backend applications and constantly learning new technologies.
+</p>
 
 ---
 
-### 💻 Languages and Technology
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title='python' width='40' height='40'/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title='django' width='40' height='40'/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title='javaScript' width='40' height='40'/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title='C' width='40' height='40'/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title='HTML' width='40' height='40'/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title='css3' width='40' height='40'/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title='bootstrap' width='40' height='40'/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title='git' width='40' height='40'/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title='docker' width='40' height='40'/>
-          
+## 🚀 About Me
 
+- 🐍 Backend Developer focused on **Python**
+- ⚡ Building APIs with **FastAPI**
+- 🐳 Docker enthusiast
+- 🗄️ Working with PostgreSQL & SQLAlchemy
+- 🔐 Interested in Backend Architecture & Security
+- 🌱 Currently improving my English and learning DevOps
 
 ---
 
-### 🛠 Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title='pycharm' width='40' height='40'/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title='pycharm' width='40' height='40'/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" title="Obsidian" alt="Notion" width="40" height="40"/>&nbsp;
+## 🛠 Tech Stack
+
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?style=for-the-badge)
+![Alembic](https://img.shields.io/badge/Alembic-black?style=for-the-badge)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-### 💻 Codewars
-[![codewars](https://www.codewars.com/users/GenyaElamkov/badges/large)](https://www.codewars.com/users/GenyaElamkov)
+## 📌 Current Projects
+
+### 💰 PocketKeeper
+
+Personal finance manager built with
+
+- FastAPI
+- PostgreSQL
+- SQLAlchemy
+- Alembic
+- Docker
+- JWT Authentication
+- Layered Architecture
 
 ---
 
-### 💻 Completed courses:
+## 📫 Contact
 
-| Courses                                                           |
-| ----------------------------------------------------------------|
-| [stepik.org/Продвинутый FastAPI для продолжающих.](https://stepik.org/cert/3237315)|
-| [stepik.org/Твой JavaScript.](https://stepik.org/cert/3088141)|
-| [stepik.org/Docker для начинающих + практический опыт.](https://stepik.org/cert/2655916)|
-| [stepik.org/Продвинутый Django 5 для продолжающих.](https://stepik.org/cert/2979883)|
-| [stepik.org/Django 5 для начинающих.](https://stepik.org/cert/2547003)|
-| [stepik.org/Поколение Python: ООП.](https://stepik.org/cert/2425182)| 
-| [stepik.org/Поколение Python: курс для профессионалов.](https://stepik.org/cert/2285168)| 
-| [stepik.org/Поколение Python: курс для продвинутых.](https://stepik.org/cert/1886670)|
-| [stepik.org/Поколение Python: курс для начинающих.](https://stepik.org/cert/1531052)| 
-| [stepik.org/Git и GitHub.](https://stepik.org/cert/2182888)| 
-| [stepik.org/Веб разработка для начинающих: HTML и CSS.](https://stepik.org/cert/2158567)| 
-| [stepik.org/Цифровая гигиена.](https://stepik.org/cert/2091636)| 
-| [stepik.org/Безопасность в интернете.](https://stepik.org/cert/1555610)| 
-| [www.specialist.ru/Программирование на языке C (Си).](https://www.specialist.ru/graduate/groupcert/997946)| 
-| [www.specialist.ru/Основы программирования и баз данных.](https://www.specialist.ru/graduate/groupcert/990417)| 
+- Telegram — https://t.me/elamkovevgeny
+- Email — genyaelamkov@gmail.com
 
 ---
 
-### ⚙️ GitHub statistics:
+## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=GenyaElamkov&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GenyaElamkov&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
+<p align="center">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GenyaElamkov)
+<img src="https://github-readme-stats.vercel.app/api?username=GenyaElamkov&show_icons=true&theme=github_dark"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenyaElamkov&layout=compact&theme=github_dark"/>
+
+</p>
+
+---
+
+![](https://github-profile-trophy.vercel.app/?username=GenyaElamkov&theme=darkhub&margin-w=15)
