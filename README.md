@@ -1,112 +1,88 @@
-```markdown
-<div align="center">
+<h1 align="center">
+Hi 👋 I'm Evgeny Elamkov
+</h1>
 
-# Hi, I'm Evgeny 👋
+<h3 align="center">
+Backend Python Developer • FastAPI • Docker • PostgreSQL
+</h3>
 
-### Python Backend Developer
-
-Building scalable backend applications with **Python**, **FastAPI**, **PostgreSQL**, and **Docker**.
-
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)]()
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)]()
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)]()
-
-</div>
+<p align="center">
+Building scalable backend applications and constantly learning new technologies.
+</p>
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 About Me
 
-Backend developer focused on writing clean, maintainable, and production-ready code.
-
-- 🚀 Building REST APIs with FastAPI
-- 🏗️ Layered Architecture & Clean Code
-- 🐳 Docker & Nginx
-- 🗄️ PostgreSQL + SQLAlchemy
-- 🔐 JWT Authentication & Authorization
-- ⚙️ CI/CD with GitHub Actions
-- 📚 Learning Kubernetes and System Design
+- 🐍 Backend Developer focused on **Python**
+- ⚡ Building APIs with **FastAPI**
+- 🐳 Docker enthusiast
+- 🗄️ Working with PostgreSQL & SQLAlchemy
+- 🔐 Interested in Backend Architecture & Security
+- 🌱 Currently improving my English and learning DevOps
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-| Backend | Database | DevOps | Tools |
-|---------|----------|---------|--------|
-| Python | PostgreSQL | Docker | Git |
-| FastAPI | SQLAlchemy | Nginx | Linux |
-| Pydantic | Alembic | GitHub Actions | uv |
-| JWT | Redis | Docker Compose | Pytest |
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?style=for-the-badge)
+![Alembic](https://img.shields.io/badge/Alembic-black?style=for-the-badge)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-# 🚀 Featured Projects
+## 📌 Current Projects
 
-## 💰 PocketKeeper
+### 💰 PocketKeeper
 
-A modern expense tracking application built with FastAPI.
+Personal finance manager built with
 
-### Features
-
+- FastAPI
+- PostgreSQL
+- SQLAlchemy
+- Alembic
+- Docker
 - JWT Authentication
-- Email Verification
-- Password Reset
-- Expense Categories
-- Family Budgets
-- REST API
-- Docker Support
 - Layered Architecture
-- CI/CD Pipeline
-
-**Stack**
-
-Python • FastAPI • PostgreSQL • SQLAlchemy • Alembic • Docker
 
 ---
 
-## 📄 Technical Specification Generator
+## 📫 Contact
 
-Web application for generating engineering documentation.
-
-**Stack**
-
-FastAPI • Vue.js • PostgreSQL • Docker
+- Telegram — https://t.me/elamkovevgeny
+- Email — genyaelamkov@gmail.com
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GenyaElamkov&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenyaElamkov&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GenyaElamkov&show_icons=true&theme=github_dark"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenyaElamkov&layout=compact&theme=github_dark"/>
+
 </p>
 
 ---
 
-# 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GenyaElamkov&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-# 🎯 2026 Goals
-
-- Build production-ready backend applications
-- Improve software architecture skills
-- Learn Kubernetes
-- Learn Distributed Systems
-- Contribute to Open Source
-
----
-
-# 📫 Contact
-
-- Telegram — **@YOUR_USERNAME**
-- LinkedIn — **YOUR_PROFILE**
-- Email — **your@email.com**
-```
+![](https://github-profile-trophy.vercel.app/?username=GenyaElamkov&theme=darkhub&margin-w=15)
