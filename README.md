@@ -76,11 +76,8 @@ Personal finance manager built with
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GenyaElamkov&show_icons=true&theme=github_dark"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenyaElamkov&layout=compact&theme=github_dark"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GenyaElamkov&show_icons=true&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenyaElamkov&layout=compact&theme=github_dark" />
 </p>
 
 ---
