@@ -1,90 +1,48 @@
-<h1 align="center">
-Hi 👋 I'm Evgeny Elamkov
-</h1>
+# Hi 👋 I'm Evgeny Elamkov
 
-<h3 align="center">
-Backend Python Developer • FastAPI • Docker • PostgreSQL
-</h3>
+### Backend Python Developer • Django • FastAPI • PostgreSQL • Docker
 
+I build backend systems and web applications end-to-end — from database design to production
+deployment. Currently expanding into DevOps: Docker orchestration, Nginx reverse proxies, and
+CI/CD.
 
-<p align="center">
-Building scalable backend applications and constantly learning new technologies.
-</p>
+## 🚀 Featured Projects
 
-## 🚀 About Me
+### 💰 PocketKeeper — Family Budget Tracker
+Personal finance management app for tracking family budget, built as a real production system
+(not a tutorial project) — includes multi-repo Docker architecture, Nginx reverse proxy, and
+automated TLS via certbot.
 
-- 🐍 Backend Developer focused on **Python**
-- ⚡ Building APIs with **FastAPI**
-- 🐳 Docker enthusiast
-- 🗄️ Working with PostgreSQL & SQLAlchemy
-- 🔐 Interested in Backend Architecture & Security
-- 🌱 Currently improving my English and learning DevOps
+- **Backend:** FastAPI, PostgreSQL, SQLAlchemy (async), Alembic, JWT auth, Docker
+- **Frontend:** Vue 3, Vite, Pinia, TailwindCSS, vue-router
+- **Infra:** 3-repo architecture (backend / frontend / infra), Docker Compose, Nginx, certbot
+- 🔗 Backend: https://github.com/GenyaElamkov/PocketKeeper
+- 🔗 Frontend: https://github.com/GenyaElamkov/finance-frontend
+- 🔗 Infra: https://github.com/GenyaElamkov/finance-infra
 
+### 📄 Contract & Document Management System
+Internal system built for a facilities/procurement department to track contracts, related
+documents, deadlines, and approval status — replaced manual spreadsheet-based tracking.
+
+- **Stack:** Django, MySQL
+- 🔗 Repo: https://github.com/GenyaElamkov/DocFlow.git
+
+### 🧑‍💼 Employee Records System
+Web application for managing employee questionnaires/profile data for Corporate Security and administrative
+purposes.
+
+- **Stack:** Django, PostgreSQL
+- 🔗 Repo: https://github.com/GenyaElamkov/HRResumeBank.git
 
 ## 🛠 Tech Stack
 
-### Backend
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?style=for-the-badge)
-![Alembic](https://img.shields.io/badge/Alembic-black?style=for-the-badge)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-
-### DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-
-
-## 📌 Current Projects
-
-### 💰 PocketKeeper
-
-Personal finance manager built with
-
-- FastAPI
-- PostgreSQL
-- SQLAlchemy
-- Alembic
-- Docker
-- JWT Authentication
-- Layered Architecture
-
+**Backend:** Python · FastAPI · Django · SQLAlchemy · Alembic · Pydantic
+**Databases:** PostgreSQL · MySQL
+**Frontend:** Vue 3 · Vite · Pinia · TailwindCSS
+**DevOps:** Docker · Docker Compose · Nginx · Git · Linux
+**Tools:** PyCharm · VS Code
 
 ## 📫 Contact
 
 - Telegram — https://t.me/elamkovevgeny
 - Email — genyaelamkov@gmail.com
-
-
-### 💻 Codewars
-[![codewars](https://www.codewars.com/users/GenyaElamkov/badges/large)](https://www.codewars.com/users/GenyaElamkov)
-
-
-### ⚙️ GitHub statistics:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=GenyaElamkov&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GenyaElamkov&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GenyaElamkov)
-
-![](https://github-profile-trophy.vercel.app/?username=GenyaElamkov&theme=darkhub&margin-w=15)
