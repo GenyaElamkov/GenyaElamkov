@@ -58,7 +58,7 @@ A full-stack family finance management application built as a
 * Docker Compose
 * Nginx
 * Certbot
-* TLS/HTTPS
+* HTTPS
 * Linux
 * Multi-repository architecture
 
