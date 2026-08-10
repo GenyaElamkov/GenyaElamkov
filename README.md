@@ -152,7 +152,6 @@ My approach includes:
 I'm continuously expanding my backend and infrastructure skills, especially in:
 
 * Advanced FastAPI architecture
-* Django architecture and best practices
 * PostgreSQL optimization
 * Async Python
 * Docker & container orchestration
