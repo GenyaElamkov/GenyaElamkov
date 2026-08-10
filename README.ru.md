@@ -1,4 +1,5 @@
- # Привет 👋 Я — Евгений Еламков
+**🌐 Languages:** [English](README.md) • [Русский](README.ru.md)
+# Привет 👋 Я — Евгений Еламков
 
 ### 🐍 Python Backend Developer | FastAPI • Django • PostgreSQL • Docker
 
