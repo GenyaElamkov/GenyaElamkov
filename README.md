@@ -37,9 +37,13 @@ purposes.
 ## 🛠 Tech Stack
 
 **Backend:** Python · FastAPI · Django · SQLAlchemy · Alembic · Pydantic
+
 **Databases:** PostgreSQL · MySQL
+
 **Frontend:** Vue 3 · Vite · Pinia · TailwindCSS
+
 **DevOps:** Docker · Docker Compose · Nginx · Git · Linux
+
 **Tools:** PyCharm · VS Code
 
 ## 📫 Contact
