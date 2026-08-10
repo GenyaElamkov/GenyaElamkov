@@ -6,11 +6,10 @@ Hi 👋 I'm Evgeny Elamkov
 Backend Python Developer • FastAPI • Docker • PostgreSQL
 </h3>
 
+
 <p align="center">
 Building scalable backend applications and constantly learning new technologies.
 </p>
-
----
 
 ## 🚀 About Me
 
@@ -21,7 +20,6 @@ Building scalable backend applications and constantly learning new technologies.
 - 🔐 Interested in Backend Architecture & Security
 - 🌱 Currently improving my English and learning DevOps
 
----
 
 ## 🛠 Tech Stack
 
@@ -48,7 +46,6 @@ Building scalable backend applications and constantly learning new technologies.
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
----
 
 ## 📌 Current Projects
 
@@ -64,25 +61,30 @@ Personal finance manager built with
 - JWT Authentication
 - Layered Architecture
 
----
 
 ## 📫 Contact
 
 - Telegram — https://t.me/elamkovevgeny
 - Email — genyaelamkov@gmail.com
 
----
 
-## 📊 GitHub Stats
+### 💻 Codewars
+[![codewars](https://www.codewars.com/users/GenyaElamkov/badges/large)](https://www.codewars.com/users/GenyaElamkov)
 
-<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GenyaElamkov&show_icons=true&theme=github_dark"/>
+### ⚙️ GitHub statistics:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenyaElamkov&layout=compact&theme=github_dark"/>
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=GenyaElamkov&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GenyaElamkov&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
 
-</p>
-
----
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GenyaElamkov)
 
 ![](https://github-profile-trophy.vercel.app/?username=GenyaElamkov&theme=darkhub&margin-w=15)
