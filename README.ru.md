@@ -1,7 +1,7 @@
 **🌐 Languages:** [English](README.md) • [Русский](README.ru.md)
 # Привет 👋 Я — Евгений Еламков
 
-### 🐍 Python Backend Developer | FastAPI • Django • PostgreSQL • Docker
+### 🐍 Python Backend Developer : FastAPI • Django • PostgreSQL • Docker
 
 Я разрабатываю **бэкенд-системы, REST API и веб-приложения** на Python, уделяя особое внимание чистой архитектуре, проектированию баз данных, поддерживаемому коду и production-ready развёртыванию.
 
