@@ -44,7 +44,7 @@ purposes.
 
 **DevOps:** Docker · Docker Compose · Nginx · Git · Linux
 
-**Tools:** PyCharm · VS Code
+**Tools:** PyCharm · VS Code · DBeaver 
 
 ## 📫 Contact
 
