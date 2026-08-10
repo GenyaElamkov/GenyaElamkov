@@ -1,3 +1,4 @@
+**🌐 Languages:** [English](README.md) • [Русский](README.ru.md)
 # Hi 👋 I'm Evgeny Elamkov
 
 ### 🐍 Python Backend Developer | FastAPI • Django • PostgreSQL • Docker
