@@ -167,8 +167,6 @@ I'm continuously expanding my backend and infrastructure skills, especially in:
 
 I use GitHub not only for storing code, but also for managing development workflows, documentation, and CI/CD automation.
 
-<!-- GitHub Stats can be added here later -->
-
 ---
 
 ## 📫 Contact
