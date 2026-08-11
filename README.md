@@ -66,14 +66,18 @@ A full-stack family finance management application built as a
 🔗 **Repositories**
 
 * [Backend](https://github.com/GenyaElamkov/PocketKeeper)
-* [Frontend](https://github.com/GenyaElamkov/finance-frontend)
-* [Infrastructure](https://github.com/GenyaElamkov/finance-infra)
+* [Frontend](https://github.com/GenyaElamkov/finance-frontend) (*Currently being refactored and cleaned up*)
+* [Infrastructure](https://github.com/GenyaElamkov/finance-infra) (*Currently being refactored and cleaned up*)
 
 ---
 
 ### 📄 Contract & Document Management System
 
 An internal **Django web application** developed for a facilities and procurement department.
+
+🔒 *Private repository — internal company project, code is not publicly available*
+
+🧹 *Currently being refactored and cleaned up*
 
 The system replaced manual spreadsheet-based workflows and centralized the management of contracts and related documentation.
 
@@ -93,6 +97,10 @@ The application helps track:
 ### 🧑‍💼 Employee Records System
 
 An internal **Django application** for managing employee questionnaires and profile information for corporate security and administrative processes.
+
+🔒 *Private repository — internal company project, code is not publicly available*
+
+🧹 *Currently being refactored and cleaned up*
 
 The application provides centralized storage and management of employee-related data.
 
