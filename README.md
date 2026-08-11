@@ -98,10 +98,6 @@ The application helps track:
 
 An internal **Django application** for managing employee questionnaires and profile information for corporate security and administrative processes.
 
-🔒 *Private repository — internal company project, code is not publicly available*
-
-🧹 *Currently being refactored and cleaned up*
-
 The application provides centralized storage and management of employee-related data.
 
 **Stack:** Python • Django • PostgreSQL
